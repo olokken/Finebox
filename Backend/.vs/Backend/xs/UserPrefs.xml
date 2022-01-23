@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{E51A64AD-B614-4758-A9C6-97FA1266B08E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="49" Column="91" />
+      <File FileName="appsettings.json" />
+      <File FileName="Repositories/IFineRepository.cs" />
+      <File FileName="Repositories/FineBoxRepository.cs" />
+      <File FileName="Repositories/FineRepository.cs" />
+      <File FileName="Entities/Fine.cs" />
+      <File FileName="Entities/Payment.cs" />
+      <File FileName="Entities/FineBox.cs" />
+      <File FileName="Entities/User.cs" />
+      <File FileName="Repositories/IFineBoxRepository.cs" />
+      <File FileName="Repositories/IUserRepository.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Repositories/UserRepository.cs" />
+      <File FileName="Utils.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/UserController.cs" Line="47" Column="10" />
+      <File FileName="Dtos/CreateUserDto.cs" />
+      <File FileName="Controllers/FineBoxController.cs" />
+      <File FileName="Controllers/FineController.cs" />
+      <File FileName="Dtos/CreateFineDto.cs" />
+      <File FileName="Dtos/CreateFineBoxDto.cs" />
+      <File FileName="Dtos/CreateAllocationDto.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Entities/Allocation.cs" />
+      <File FileName="Dtos/LoginDto.cs" />
+      <File FileName="Repositories/IUserFineBoxRepository.cs" />
+      <File FileName="Repositories/UserFineBoxRepository.cs" />
+      <File FileName="Controllers/UserFineBoxController.cs" />
+      <File FileName="Dtos/JoinFineBoxDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Backend" expanded="True">
+            <Node name="Backend" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
